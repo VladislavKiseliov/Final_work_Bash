@@ -1,0 +1,9 @@
+WEB Server Lor Report
+=====================
+Total number of requests: 6
+Nomber of Unique IP Adresses: 4
+=======
+Number of requests by method
+Get: 5
+Post: 1
+Most popular URL: 3 /index.html
