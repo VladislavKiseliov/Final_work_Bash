@@ -72,3 +72,4 @@ END {
 }
 
 ' access.log >> report.txt
+echo "The report is saved to a report.txt"
